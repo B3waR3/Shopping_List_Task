@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664555738417",
+    "project_id": "shopping-list-task-f7de1",
+    "storage_bucket": "shopping-list-task-f7de1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664555738417:android:b66452fff677eff641cc10",
+        "android_client_info": {
+          "package_name": "com.example.shoppingmanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrsVesZ0ovH94v4VBi7yhZj9F3vKxpxUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
