@@ -5,9 +5,6 @@ public class userData {
     private String email;
     private String username;
 
-    public userData() {
-        // Required empty constructor for Firebase
-    }
 
     public userData(String userId, String email, String username) {
         this.userId = userId;
@@ -15,7 +12,7 @@ public class userData {
         this.username = username;
     }
 
-    // Getters and Setters
+
     public String getUserId() { return userId; }
     public void setUserId(String userId) { this.userId = userId; }
     public String getEmail() { return email; }

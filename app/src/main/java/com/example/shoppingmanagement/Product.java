@@ -16,6 +16,7 @@ public class Product {
         this.quantity = quantity;
     }
 
+
     public String getId() { return id != null ? id : ""; }
     public void setId(String id) { this.id = id != null ? id : ""; }
     
